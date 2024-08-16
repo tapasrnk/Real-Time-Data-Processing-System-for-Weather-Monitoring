@@ -2,16 +2,16 @@
 ## Design 
 ###### Tables:
     1. alert
-      ![image](https://github.com/user-attachments/assets/1ab95230-681e-47a1-934c-7b282ba1554d)
+![image](https://github.com/user-attachments/assets/1ab95230-681e-47a1-934c-7b282ba1554d)
 
     2. alert_history
-      ![image](https://github.com/user-attachments/assets/e1a3b8b2-32c6-46dc-8243-96a2338321b6)
+  ![image](https://github.com/user-attachments/assets/e1a3b8b2-32c6-46dc-8243-96a2338321b6)
 
     3. weather_data
-      ![image](https://github.com/user-attachments/assets/013a75f1-81ff-4fc0-ac43-c1778fc81758)
+  ![image](https://github.com/user-attachments/assets/013a75f1-81ff-4fc0-ac43-c1778fc81758)
 
     4. weather_summary
-      ![image](https://github.com/user-attachments/assets/22b05ddc-28db-42b2-8248-42a7543c106a)
+  ![image](https://github.com/user-attachments/assets/22b05ddc-28db-42b2-8248-42a7543c106a)
 
 ## Test in local
 1. Start my-sql database on port 3306.
